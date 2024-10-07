@@ -6,5 +6,5 @@ Repository for two types of network maps referenced in paper
 
 These files are currently in compressed nii.gz format in 0.5mm iotropic space coregistered to the MLIN2009b MNI space. 
 
-For questions or concerns please contact mcambareri@mgh.
+For questions or concerns please contact mcambareri@mgh.harvard.edu
 
